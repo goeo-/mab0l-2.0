@@ -1,0 +1,7 @@
+*.osz
+*.crdownload
+*.zip
+chromedriver*
+collection.db
+venv/
+.idea/
